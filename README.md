@@ -1,3 +1,6 @@
+#
+This project is a hamburger app. You can compose your favorite burger.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
